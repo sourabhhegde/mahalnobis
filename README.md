@@ -3,7 +3,7 @@ What is Mahalanobis Distance?
 Mahalanobis Distance is a multivariate distance metric that measures how far a data point is from the center of a distribution while accounting for correlations between variables and their variances.
 
 
-#How We Used Mahalanobis Distance in Our Medical Dataset
+# How We Used Mahalanobis Distance in Our Medical Dataset
 In our project, we applied Mahalanobis distance to detect outliers in a medical dataset containing vitals and lab results.
 
 Key points:
